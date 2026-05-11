@@ -1,0 +1,6 @@
+{
+  "name": "TRADE COST CHECKER",
+  "description": "App for Trade Marketing to calculate promotion costs based on uploaded Excel files.",
+  "requestFramePermissions": [],
+  "majorCapabilities": []
+}
